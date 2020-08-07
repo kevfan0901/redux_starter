@@ -1,0 +1,25 @@
+{
+  "COMMON": {
+    "SELECT_LANGUAGE": "選擇語言",
+    "ZHTW": "繁體中文",
+    "ENUS": "English",
+    "JAJP": "日本語",
+    "FAVORITES": "",
+    "ADD_TO_FAVORITES": "",
+    "CLOSE": "",
+    "SEARCH": "",
+    "BACK": "回上頁",
+    "SIZE": "",
+    "ITEMS": "",
+    "WEDDING_DRESS_FINDER": ""
+  },
+  "MY_MENU": {
+    "FIND_MY_STYLE": "",
+    "MY_FITTING_ROOM": ""
+  },
+  "SEARCH": {
+    "SIHOUTETTE": "",
+    "SLEEVE": "",
+    "PRICE": ""
+  }
+}

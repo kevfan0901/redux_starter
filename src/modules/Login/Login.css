@@ -1,0 +1,124 @@
+.logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255,255,255,.2);  
+  margin: 16px 24px 16px 0;
+  float: left;
+}
+.contentStyle{
+  background: rgb(255, 255, 255);
+  min-height: 768px;
+}
+
+.backgroundImg{
+  background: linear-gradient(#fff, #ccc);
+  height: 100%;
+  line-height: 100%;
+  /* background-image:url("./img/bg.png") */
+
+}
+.backgroundPatten{
+  /* background-image: url("../../img/top.svg")  ; */
+  background-repeat: no-repeat;
+  background-size: 670px 400px;
+
+
+}
+.backgroundBottom{
+  /* background-image: url("../../img/bottom.svg") ; */
+  background-repeat: no-repeat;
+  background-position: right bottom; /*Positioning*/
+  background-size: 800px 500px;
+
+}
+
+.login-form {
+  /* max-width: 420px; */
+  padding: 26px 70px ;
+  background-color: #fff;
+  border-radius:10px;
+  
+  width: 460px;
+  /* text-align: center; */
+  margin: 0px auto;
+  position: relative;
+  top: 150px;
+}
+
+.login-title {
+  padding: 26px 70px ;
+  background-color: #606060;
+  border-radius:10px 10px 0 0;
+  font-size: 20px;
+  width: 460px;
+  text-align: center;
+  margin: 0px auto;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.login-form img{
+  margin: 0px 0px 16px 0px;
+}
+
+.login-form  label{
+  color: #606060;
+  margin-left: 16px;
+  font-weight:100;
+}
+.login-form input{
+  border-radius: 10px;
+  background: rgb(231, 231, 231);
+  color:#606060;
+}
+
+.login-form input:hover {
+  border-color: #FA3978;
+}
+
+.login-form .ant-input:focus {
+  border-color: #FA3978;
+  -webkit-box-shadow: 0 0 0 2px rgba(255, 24, 139, 0.2);
+  box-shadow: 0 0 0 2px rgba(255, 24, 139, 0.2);
+}
+
+#login_forget_psw {
+  color: #FA3978;
+  font-weight: 400;
+}
+
+/* .login-form:before {
+  content: '';
+  display: inline-block;
+  vertical-align: middle ;
+  height: 100%;
+} */
+.login-form-forgot {
+  float: right;
+}
+.login-form-button {
+  width: 100%;
+  background: #FA3978;
+  border-radius:5px;
+  margin-top: 28px;
+  color: #fff;
+}
+.login-form-button.ant-btn:hover {
+  background: rgb(223, 23, 90);
+  color: #fff;
+}
+.login-form-button.ant-btn:focus {
+  background: rgb(223, 23, 90);
+  color: #fff;
+}
+
+
+.langSelector .ant-select-selection {
+  background-color: rgb(49, 44, 34,1); 
+  color: white;
+  border-radius:14px;
+}
+.langSelector .ant-select-arrow {
+  color: white;
+}

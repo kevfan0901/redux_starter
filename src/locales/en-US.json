@@ -1,0 +1,26 @@
+{
+  "COMMON": {
+    "SELECT_LANGUAGE": "Choose Language",
+    "LOADING":"loging",
+    "ZHTW": "繁體中文",
+    "ENUS": "English",
+    "JAJP": "日本語",
+    "FAVORITES": "Favorites",
+    "ADD_TO_FAVORITES": "Add to favorites",
+    "CLOSE": "Close",
+    "SEARCH": "Search",
+    "BACK": "Back",
+    "SIZE": "Size",
+    "ITEMS": "Items",
+    "WEDDING_DRESS_FINDER": "Wedding Dress Finder"
+  },
+  "MY_MENU": {
+    "FIND_MY_STYLE": "FIND MY STYLE",
+    "MY_FITTING_ROOM": "MY FITTING ROOM"
+  },
+  "SEARCH": {
+    "SIHOUTETTE": "Sihouette",
+    "SLEEVE": "Sleeve",
+    "PRICE": "Price"
+  }
+}
