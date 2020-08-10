@@ -107,7 +107,7 @@ this.props.history.push(PATH.PRODUCTMANAGEMENT);
 ```
 
 ## 更新字串
-1. 在google試算表登記字串: https://docs.google.com/spreadsheets/d/1BAHhH7Qk-N96DsUebl-z0F3wGZsHUSPwY5iUi--28jQ
+1. 在google試算表登記字串: https://docs.google.com/spreadsheets/d/1afZBMBgCBzszI5aQRgJisAkNUjE6n-BqUf2ZN_aDoNc/edit?copiedFromTrash#gid=1803461926
 2. 執行指令:
 ``` sh
 npm run i18n:update
